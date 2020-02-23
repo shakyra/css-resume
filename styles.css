@@ -1,0 +1,169 @@
+a {
+  color: #434e52;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #596157;
+}
+
+body {
+  background: linear-gradient(to bottom, white, transparent 100%);
+  background-color: #6a8caf;
+  color: black;
+  font-family: 'Raleway', serif;
+  font-size: 1.5rem;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Bad Script';
+  font-size: 4rem; /* 1em = 16px or 100% */
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #552244;
+  font-family: 'Raleway', sans-serif;
+  font-size: 2.5rem;
+  padding-bottom: 40px;
+}
+
+h3 {
+  color: #552244;
+  font-family: 'Raleway', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #9818d6;
+  border-width: 5px;
+  margin: 30px auto 30px auto;
+  width: 5%;
+}
+
+img {
+  padding: 50px;
+}
+
+img:hover {
+  opacity: 0.5;
+}
+
+p {
+  color: #142850;
+}
+
+.bottom-cloud {
+  bottom: 300px;
+  left: 300px;
+  position: absolute;
+}
+
+.bottom-container {
+  color: #434e52;
+  font-size: 1rem;
+  padding: 25px;
+}
+
+.contact-button {
+	background-color:#00a8cc;
+	border-radius:28px;
+	border:1px solid #00a8cc;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+  margin: 50px auto 20px auto;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #00a8cc;
+}
+
+.contact-button:active {
+	position:relative;
+	top:1px;
+}
+
+.contact-me {
+  background-color: #a7e9af;
+  color: #552244;
+  padding: 50px;
+}
+
+.copyright {
+  padding: 20px;
+}
+
+.doctor-img {
+  float: right;
+  position: relative;
+  width: 20%;
+}
+
+.footer-link {
+  padding: 20px;
+}
+
+.intro {
+  line-height: 1.5;
+  margin: auto;
+  width: 50%;
+}
+
+.middle-container {
+  background-color: #a7e9af;
+}
+
+.mountain-img {
+  padding-bottom: 0;
+}
+
+.pig-img {
+    position: relative;
+    width: 20%;
+}
+.profile {
+  background-color: #a7e9af;
+  padding: 50px;
+}
+
+.skill-row {
+  background-color: #a7e9af;
+  line-height: 1.5;
+  margin: 50px auto 100px auto;
+  padding-bottom: 50px;
+  text-align: left;
+  width: 75%;
+}
+
+.skills {
+  padding-top: 50px;
+}
+
+.subtitle {
+  color: #552244;
+  font-size: 2rem;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-container {
+  background-color: #6a8caf;
+  color: #552244;
+  padding: 60px 100px 0 100px;
+  position: relative;
+}
+
+.ui-img {
+  float: left;
+  position: relative;
+  width: 20%;
+}
